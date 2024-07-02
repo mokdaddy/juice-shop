@@ -10,7 +10,7 @@ on:
       - 'monitoring/grafana-dashboard.json'
       - 'screenshots/**'
     tags-ignore:
-      - '*'
+      - '*' 
   pull_request:
     paths-ignore:
       - '*.md'
